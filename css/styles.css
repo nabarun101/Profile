@@ -1,0 +1,154 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+body{
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+h1{
+    color: #66BFBF;
+    font-size: 5.625rem;
+    font-family: 'Sacramento', cursive;
+    line-height: 2;
+    margin: 50px auto 0 auto;
+    padding-bottom: 10px;
+}
+h2{
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    /* font-weight: normal; */
+}
+h3{
+    color:#11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+
+a{
+    color:#11999E;
+    font-family:'Merriweather', serif;
+}
+
+hr{
+    border: 6px dotted #bac5c5;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.webapp{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.arduino{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.top-container{
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+.top-container h2{
+    font-weight: normal;
+}
+
+.middle-container{
+    padding: 100px 0;
+}
+
+element.style {
+    width: 135.6;
+    height: 43px;
+    width: 71.6;
+}
+.BUTTON_RNA {
+    background: #11CDD4;
+    background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -webkit-gradient(to bottom, #11CDD4, #11999E);
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    color: #FFFFFF;
+    font-family:'Merriweather', serif;
+    font-size: 20px;
+    font-weight: normal;
+    padding: 13px;
+    -webkit-box-shadow: 1px 1px 20px 0 #000000;
+    -moz-box-shadow: 1px 1px 20px 0 #000000;
+    box-shadow: 1px 1px 20px 0 #000000;
+    text-shadow: 1px 1px 20px #000000;
+    border: solid #11CDD4 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .BUTTON_RNA:hover {
+    border: solid #30E3CB 1px;
+    background: #30E3CB;
+    background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: -webkit-gradient(to bottom, #30E3CB, #2BC4AD);
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    text-decoration: none;
+ }
+.bottom-container{
+    background-color: #66BFBF;
+    color: #11999E;
+    padding: 57px;
+}
+
+.bottom-container p{
+    margin-bottom: 0px;
+    color: #EAF6F6;
+    margin-top: 38px;
+}
+
+.bottom-container a{
+    text-decoration: none;
+    padding:23px ;
+}
+
+.pro{
+    text-decoration: underline;
+}
+
+.contact-message{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 350px;
+    top: 40px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 350px;
+    bottom: 300px;
+}
